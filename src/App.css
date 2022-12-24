@@ -1,0 +1,36 @@
+.App{
+  background: rgb(248, 243, 243);
+}
+.item_item{
+  height: 500px;
+  overflow: scroll;
+
+}
+.home_container{
+  background: rgb(199, 198, 198);
+}
+.text_input{
+  height: 30px;
+  width: 60px;
+  border: none;
+  background: rgb(216, 214, 214);
+   font-size: larger;
+   padding-left: 10px;
+
+}
+.qwt_set_btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn_qwt{
+  height: 30px;
+  width: 20px;
+  border: none;
+  font-size: 2rem;
+  font-weight: bolder;
+  margin-left: 8px;
+  margin-right: 8px;
+  background-color: rgb(197, 199, 199);
+  
+}
